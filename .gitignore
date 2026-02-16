@@ -82,3 +82,7 @@ diagram
 agent/.git/objects/pack/pack-be1594b424217292e292e6f595d87615741c179b.pack
 AI
 AI
+-e 
+# Environment files
+*.env
+*.env.*
